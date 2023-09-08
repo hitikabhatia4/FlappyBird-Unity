@@ -12,6 +12,7 @@ This level is the starting of the journey of our bird. Level 1 consists of a ‘
 
 LEVEL2:
 Here the environment changes to ‘Dark Land’ and night time. The bird will face unique new obstacles introduced as per the new environment.
+
 ![level2](https://github.com/hitikabhatia4/FlappyBird-Unity/assets/54341268/51311ae4-5151-460d-b791-6d4a268387de)
 
 LEVEL3:
